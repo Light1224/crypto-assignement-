@@ -1,0 +1,5 @@
+Scheme,Public Key (bits),Ciphertext (bits),Notes
+"Ring-LWE (n=256, q=12289)",7168,7168,Estimated uncompressed polynomial coefficients
+RSA-2048,2048,2048,Modulus-size baseline
+RSA-4096,4096,4096,Modulus-size baseline
+ECC-256,512,800,Approx ECIES-style envelope baseline

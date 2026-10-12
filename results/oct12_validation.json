@@ -1,0 +1,42 @@
+{
+  "ntt_vs_naive": {
+    "ok": true,
+    "instances_checked": 12
+  },
+  "ciphertext_equivalence": {
+    "ok": true,
+    "samples": 16
+  },
+  "correctness_1000": {
+    "ok": true,
+    "trials": 1000,
+    "failures": 0,
+    "failure_rate": 0.0
+  },
+  "lll_small_attack": {
+    "ok": true,
+    "bounded_attack_summary": {
+      "8": {
+        "successes": 1,
+        "timeouts": 0,
+        "mean_time_s": 11.175352292018943
+      },
+      "12": {
+        "successes": 0,
+        "timeouts": 1,
+        "mean_time_s": 12.004736708011478
+      },
+      "16": {
+        "successes": 0,
+        "timeouts": 1,
+        "mean_time_s": 12.004764709039591
+      },
+      "20": {
+        "successes": 0,
+        "timeouts": 1,
+        "mean_time_s": 12.004848916083574
+      }
+    }
+  },
+  "all_ok": true
+}

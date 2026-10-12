@@ -1,0 +1,5 @@
+n,m,q,sigma,trials,successes,timeouts,completed_trials,success_rate,success_rate_completed,timeout_rate,mean_time_s,median_time_s,mean_completed_time_s,median_completed_time_s
+8,16,257,1.2,2,2,0,2,1.000000,1.000000,0.000000,11.961801,11.961801,11.961801,11.961801
+12,24,257,1.2,2,0,2,0,0.000000,0.000000,1.000000,20.006961,20.006961,NaN,NaN
+16,32,257,1.2,2,0,2,0,0.000000,0.000000,1.000000,20.005806,20.005806,NaN,NaN
+20,40,257,1.2,2,0,2,0,0.000000,0.000000,1.000000,20.005363,20.005363,NaN,NaN
